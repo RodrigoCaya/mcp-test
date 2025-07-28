@@ -1,0 +1,24 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/RodrigoCaya/mcp#readme",
+  "bugs": {
+    "url": "https://github.com/RodrigoCaya/mcp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCaya/mcp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "zod": "^3.25.76"
+  }
+}
